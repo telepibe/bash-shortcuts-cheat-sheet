@@ -1,7 +1,5 @@
 ## Useful bash / zsh shortcuts
 
-MacOS iTerm 2 users must turn on meta key — https://coderwall.com/p/_lmivq
-
 Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/01/25/moving_cli/): 
 
 ![visual cheetsheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet/blob/master/moving_cli.png?raw=true)
